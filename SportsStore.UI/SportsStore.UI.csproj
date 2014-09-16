@@ -71,6 +71,7 @@
     <Content Include="angularjs\bootstrap.css" />
     <Content Include="angularjs\components\cart\cart.js" />
     <Content Include="angularjs\components\cart\cartSummary.html" />
+    <Content Include="angularjs\controllers\checkoutControllers.js" />
     <Content Include="angularjs\controllers\productListControllers.js" />
     <Content Include="angularjs\controllers\sportsStore.js" />
     <Content Include="angularjs\filters\customFilters.js" />
